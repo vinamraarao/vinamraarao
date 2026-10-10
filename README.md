@@ -16,11 +16,9 @@ fun_fact: "I turn coffee into code ☕"
 Frontend
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,materialui" alt="Frontend Skills" /> </p>
 Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,postman" alt="Backend Skills" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" alt="Backend Skills" /> </p>
 Tools & Platforms
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,linux,bash,npm" alt="Tools" /> </p>
-Currently Learning
-<p align="left"> <img src="https://skillicons.dev/icons?i=typescript,docker,kubernetes,aws,graphql,nextjs" alt="Learning" /> </p>
 📊 GitHub Analytics
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinamraarao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinamraarao&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinamraarao&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinamraarao&theme=tokyo-night&hide_border=true" alt="Activity Graph" /> </p>
 🚀 Featured Projects
